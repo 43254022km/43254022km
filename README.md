@@ -1,5 +1,5 @@
 Hi there👋
-- I’m @43254022km, a college students.
+- I’m @43254022km, a college student.
 - 📫I'm majoring in Data Science and Big Data
 - 🌱I’m currently learning pytorch.
 
